@@ -37,7 +37,7 @@ Adicione suas tarefas e gerencie a lista de forma simples e direta.
 
 ##📷 Exemplo da Interface
 
-
+![Preview do Projeto](Todolist.jpeg)
 
 ##👨‍💻 Desenvolvido por
 
