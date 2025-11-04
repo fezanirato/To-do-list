@@ -42,4 +42,4 @@ Adicione suas tarefas e gerencie a lista de forma simples e direta.
 ## 👨‍💻 Desenvolvido por
 
 Felipe Zanirato
-🔗 [Acesse meu perfil do GitHub](https://github.com/XxZaniratoxX)
+🔗 [Acesse meu perfil do GitHub](https://github.com/fezanirato)
